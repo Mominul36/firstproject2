@@ -12,6 +12,6 @@ int main()
         }
         cout<<"\t"<<i;
     }
-
+   cout<< "Mominul"<<endl;
     return 0;
 }
